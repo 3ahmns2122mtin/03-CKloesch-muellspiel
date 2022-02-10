@@ -1,22 +1,22 @@
-# Unity2020.3.18f1-README-Template
+# 03-CKloesch-muellspiel
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+In diesem Spiel geht es darum, vom Himmel fliegenden Müll mithilfe eines Characters und Mülltonnen einzusammeln. Zunächst ist der Müll ungefährlich, dann wird er kritisch und schließlich ist er tötlich, sobald man ihn berührt.
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+Windows 10, Unity Version 2020.3.18f, Visual Studios Community 2019
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+
 
 ### Notwendiges für die Ausführung: 
-z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
+Internet  
 
 ### Drittmaterial: 
-Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden. 
+Pinguin.png, Muelltonne.png, Background.png
 
 ### Anforderungsliste:  
 - [ ] Mercury
@@ -25,7 +25,7 @@ Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nic
 - [x] Mars
 
 ### Limitationen:
-Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von den Anforderungen nicht umgesetz. Wo waren die Probleme. 
+Ich habe nicht ganz verstanden, was alles ins Timer Script gehört und wie man die Mülltonnen bewegen können soll. Außerdem wusste ich nicht, wie ich das "Aufsammeln" visualisieren sollte.
 
 ### Lessons Learned:
 - [ ] Saturn
@@ -33,4 +33,4 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Neptune
 - [ ] Comet Haley
 
-Copyright by you :)
+Copyright by Caro :)
